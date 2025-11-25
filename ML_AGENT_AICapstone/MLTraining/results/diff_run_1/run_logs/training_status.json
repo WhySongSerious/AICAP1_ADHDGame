@@ -1,0 +1,29 @@
+{
+    "DifficultyBrain": {
+        "checkpoints": [
+            {
+                "steps": 50047,
+                "file_path": "results\\diff_run_1\\DifficultyBrain\\DifficultyBrain-50047.onnx",
+                "reward": null,
+                "creation_time": 1764007537.2744982,
+                "auxillary_file_paths": [
+                    "results\\diff_run_1\\DifficultyBrain\\DifficultyBrain-50047.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50047,
+            "file_path": "results\\diff_run_1\\DifficultyBrain.onnx",
+            "reward": null,
+            "creation_time": 1764007537.2744982,
+            "auxillary_file_paths": [
+                "results\\diff_run_1\\DifficultyBrain\\DifficultyBrain-50047.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.7.1+cpu"
+    }
+}
